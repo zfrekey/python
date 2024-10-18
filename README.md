@@ -1,2 +1,2 @@
-# python
-Repositório criado para guardar exercicios de python da faculdade
+# Restaurantes
+Uma aplicação em python que mosttra uma lista de restaurantes e seus cardápios
